@@ -1,0 +1,16 @@
+Project Detail
+
+Back end technology :- Django Rest Framework(DRF)
+
+Front end technology :-React js
+
+Commnads for run back end :-
+1.create virtual env Command:- python3 -m venv env
+2.activate virtual env Command:- source env/bin/activate 
+3.Apply migrations for database :-python manage.py makemigrations  
+4.Apply migrate for database :-python manage.py migrate 
+5.go to project folder and run for server:-python manage.py runserver
+
+Commnads for run front  end :-
+1.go to project folder and run for server:- npm start
+
